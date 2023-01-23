@@ -14,5 +14,9 @@ Primeira atividade de visualização de dados do módulo, onde foi utilizada a b
 ## Dashboard
 ![Dash](https://github.com/NiloBSilvaJr/Covid_PowerBI/blob/main/Dash_Covid19.jpeg)
 
+##
+
+Nova página adicionada
+
 ## Spatial Distribution
 ![Map](https://github.com/NiloBSilvaJr/Covid_PowerBI/blob/main/Spatial_distribution.png)
